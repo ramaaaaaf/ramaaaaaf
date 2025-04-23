@@ -3,7 +3,7 @@
 
 <h3 align="left">Connect with me :</h3>
 <p align="left">
-<a href="https://instagram.com/ramaaaaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramaaaaaf" height="30" width="40" /></a>
+<a href="https://instagram.com/ramaaaaaf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ramaadityaf" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
@@ -19,5 +19,5 @@
 <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramaaaaaf&show_icons=true&locale=en&layout=compact" alt="ramaaaaaf" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ramaaaaaf&show_icons=true&locale=en" alt="ramaaaaaf" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramaadityaf&show_icons=true&locale=en&layout=compact" alt="ramaadityaf" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ramaadityaf&show_icons=true&locale=en" alt="ramaadityaf" /></p>
